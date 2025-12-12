@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" xmlns:ah="http://adshero.io/ns/1.0" version="2.0">
+  <channel>
+    <g:title><![CDATA[Decathlon Polska – Feed Produktowy]]></g:title>
+    <g:link><![CDATA[https://www.decathlon.pl/]]></g:link>
+    <g:description><![CDATA[Oficjalny feed produktowy Decathlon Polska.]]></g:description>
+    <item>
+      <ah:product_id><![CDATA[881dd395-b975-4c5d-a6a3-63872e6ec7fc]]></ah:product_id>
+      <g:item_group_id><![CDATA[881dd395-b975-4c5d-a6a3-63872e6ec7fc]]></g:item_group_id>
+      <g:brand><![CDATA[FRUIT OF THE LOOM]]></g:brand>
+      <g:description><![CDATA[Wysokiej Jakości produkt, do wędrówki. Dla Mężczyzn.]]></g:description>
+      <g:id><![CDATA[91fcddce-60f5-494f-91f7-8970d411d7ac]]></g:id>
+      <g:gtin>5063652279113</g:gtin>
+      <g:title><![CDATA[Męska Koszulka Z Długim Rękawem Valueweight]]></g:title>
+      <g:link><![CDATA[https://www.decathlon.pl/p/mp/fruit-of-the-loom/meska-koszulka-z-dlugim-rekawem-valueweight/_/R-p-881dd395-b975-4c5d-a6a3-63872e6ec7fc?mc=881dd395-b975-4c5d-a6a3-63872e6ec7fc_c14]]></g:link>
+      <g:color><![CDATA[Czerwony]]></g:color>
+      <g:image_link><![CDATA[https://contents.mediadecathlon.com/m19393277/k$b4938bc62cc13996bf3f1d6db352c6ba/sq/MskaKoszulkaZDugimRkawemValueweight.jpg]]></g:image_link>
+      <g:price>43.99 PLN</g:price>
+      <g:product_type><![CDATA[Sporty > Turystyka, Trekking > Odzież turystyczna i trekkingowa > Koszulki trekkingowe]]></g:product_type>
+      <g:availability><![CDATA[in stock]]></g:availability>
+    </item>
+  </channel>
+</rss>
